@@ -1,0 +1,1 @@
+Simple state-pattern implementation
